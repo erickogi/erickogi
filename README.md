@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-## [![stephen ajulu's header](https://github.com/erickogi/erickogi/blob/master/images/background.png)](https://www.linkedin.com/in/erickogi/)
+## [![Eric Kogi's header](https://github.com/erickogi/erickogi/blob/master/images/background.png)](https://www.linkedin.com/in/erickogi/)
 
 <p align='center'>
 
