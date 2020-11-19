@@ -12,6 +12,6 @@
 
 ### 📫 Where to find me
 - [Twitter](https://twitter.com/kogi_dev) 🐤
-- [LinkedIn](https://linkedin.com/in/stephenajulu) 👨💼
+- [LinkedIn](https://linkedin.com/in/erickogi) 👨💼
 
 ![Kogi's Github Stats](https://github-readme-stats.vercel.app/api?username=erickogi&show_icons=true&theme=radical)
