@@ -7,7 +7,10 @@
 <p align="center">A Software Developer</p>
 
 ### I work on
-- [Android(Kotlin),IOS(Swift) Backend(Springboot,NodeJs),Web-Frontend(Angular,vue-js)]
+- Android(Kotlin)
+- IOS(Swift) 
+- Backend(Springboot,NodeJs)
+- Web-Frontend(Angular,vue-js)
 
 ### 💼 Currently working as/at
 - [Application Developer @ NCBA Group](https://ncbagroup.com) 💼 
