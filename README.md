@@ -12,6 +12,11 @@
 - Backend(Springboot,NodeJs)
 - Web-Frontend(Angular,vue-js)
 
+### I enjoy
+- F1
+- Space & Astronomy & Astrophysics study
+- Leisure Cycling
+
 ### 💼 Currently working as/at
 - [Application Developer @ NCBA Group](https://ncbagroup.com) 💼 
 
