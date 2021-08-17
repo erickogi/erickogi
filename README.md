@@ -4,7 +4,7 @@
 <a href="https://www.linkedin.com/in/erickogi/"><img height="30" src="https://github.com/erickogi/erickogi/blob/main/images/linkedin.png?raw=true"></a>
 </p>
 <h2 align="center">Hello, Kogi here. 👋🤓</h2>
-<p align="center">A Software Developer</p>
+<p align="center">Software Developer</p>
 
 ### I work on
 - Android(Kotlin)
