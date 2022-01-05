@@ -18,7 +18,7 @@
 - Leisure Cycling
 
 ### 💼 Currently working as/at
-- [Application Developer @ NCBA Group](https://ncbagroup.com) 💼 
+- [Engineering Manager @ NCBA Group](https://ncbagroup.com) 💼 
 
 ### 📫 Where to find me
 - [Twitter](https://twitter.com/kogi_dev) 🐤
