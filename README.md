@@ -17,8 +17,8 @@
 - Space & Astronomy & Astrophysics study
 - Leisure Cycling
 
-### 💼 Currently working as/at
-- [Engineering Manager @ NCBA Group](https://ncbagroup.com) 💼 
+<!-- ### 💼 Currently working as/at
+- [Engineering Manager @ NCBA Group](https://ncbagroup.com) 💼  -->
 
 ### 📫 Where to find me
 - [Twitter](https://twitter.com/kogi_dev) 🐤
