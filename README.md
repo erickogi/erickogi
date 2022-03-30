@@ -22,7 +22,7 @@
 
 ### 📫 Where to find me
 - [Twitter](https://twitter.com/kogi_dev) 🐤
-- [LinkedIn](https://linkedin.com/in/erickogi) 👨💼
+<!-- - [LinkedIn](https://linkedin.com/in/erickogi) 👨💼 -->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erickogi)](https://github.com/erickogi/github-readme-stats)
 ![Kogi's Github Stats](https://github-readme-stats.vercel.app/api?username=erickogi&show_icons=true&theme=radical)
