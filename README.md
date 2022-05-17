@@ -7,9 +7,9 @@
 <p align="center">Software Developer</p>
 
 ### I work on
-- Android(Kotlin)
-- IOS(Swift) 
-- Backend(Springboot,NodeJs)
+- Android(Kotlin,KMM,Java)
+- IOS(Swift,SwiftUI) 
+- Backend(Springboot,NodeJs,PHP) *Elixir Student*
 - Web-Frontend(Angular,vue-js)
 
 ### I enjoy
