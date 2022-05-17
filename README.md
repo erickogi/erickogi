@@ -6,7 +6,7 @@
 <h2 align="center">Hello, Kogi here. 👋🤓</h2>
 <p align="center">Software Developer</p>
 
-### I work on
+### I work on *In no particular order*
 - Android(Kotlin,KMM,Java)
 - IOS(Swift,SwiftUI) 
 - Backend(Springboot,NodeJs,PHP) *Elixir Student*
