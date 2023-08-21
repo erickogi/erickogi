@@ -7,10 +7,10 @@
 <p align="center">Software Developer</p>
 
 ### I work on *In no particular order*
-- Android(Kotlin,KMM,Java)
-- IOS(Swift,SwiftUI) 
-- Backend(Springboot,NodeJs,PHP) *Elixir Student*
-- Web-Frontend(Angular,vue-js)
+- Android(Kotlin, KMM, Java, Vue.js Native)
+- IOS(Swift, SwiftUI, KMM) 
+- Backend(Java, Kotlin, Springboot, NodeJs, PHP) *Elixir Student*
+- Web-Frontend(Angular, Vue-js)
 
 ### I enjoy
 - F1
