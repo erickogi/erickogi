@@ -21,7 +21,7 @@
 - [Engineering Manager @ SafeBoda](https://www.safeboda.com/) 💼 
 
 ### 📫 Where to find me
-- [Twitter](https://twitter.com/kogi_dev) 🐤
+- [Twitter](https://twitter.com/erickogi_) 🐤
 - [LinkedIn](https://linkedin.com/in/erickogi) 👨💼
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erickogi)](https://github.com/erickogi/github-readme-stats)
