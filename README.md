@@ -19,6 +19,11 @@
 
 ### 💼 Currently working as/at
 - [Engineering Manager @ SafeBoda](https://www.safeboda.com/) 💼 
+### 💼 Previous work experience as/at
+- [Engineering Manager @ NCBA Bank](https://loop.co.ke/) 💼
+- [Software Engineer @ NCBA Bank](https://loop.co.ke/) 💼
+- [Android Engineer @ KuzaLab ](https://www.kuzalab.com/) 💼
+- [Lead Developer & Instructor @Zalego Institute] 💼
 
 ### 📫 Where to find me
 - [Twitter](https://twitter.com/erickogi_) 🐤
