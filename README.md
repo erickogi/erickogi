@@ -9,7 +9,7 @@
 ### I work on *In no particular order*
 - Android(Kotlin, KMM, Java, PWA(Vue.js))
 - IOS(Swift, SwiftUI, KMM) 
-- Backend(Java, Kotlin, Springboot, NodeJs, PHP) *Elixir Student*
+- Backend(Java, Kotlin, Springboot, Pythion, NodeJs, PHP) *Elixir Student*
 - Web-Frontend(Angular, Vue-js)
 
 ### I enjoy
